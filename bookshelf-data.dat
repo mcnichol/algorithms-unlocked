@@ -1,0 +1,11 @@
+[
+    { "isbn": "0684801221", "title": "Old Man and the Sea", "author": {"first_name": "Ernest", "last_name":"Hemingway"}},
+    { "isbn": "0262518805", "title": "Algorithms Unlocked", "author": {"first_name": "Thomas", "last_name":"Cormen"}},
+    { "isbn": "1476787778", "title": "For Whome the Bell Tolls", "author": {"first_name": "Ernest", "last_name":"Hemingway"}},
+    { "isbn": "1451626657", "title": "Catch 22", "author": {"first_name": "Joseph", "last_name":"Heller"}},
+    { "isbn": "1514699400", "title": "Gulliver's Travels", "author": {"first_name": "Jonathan", "last_name":"Swift"}},
+    { "isbn": "1503212831", "title": "A Christmas Carol", "author": {"first_name": "Charles", "last_name":"Dickens"}},
+    { "isbn": "0142302376", "title": "Redwall", "author": {"first_name": "Brian", "last_name":"Jacques"}},
+    { "isbn": "147676669X", "title": "A Mind at Play", "author": {"first_name": "Jimmy", "last_name":"Soni"}},
+    { "isbn": "0316491977", "title": "Soul of a New Machine", "author": {"first_name": "Tracy", "last_name":"Kidder"}}
+]
